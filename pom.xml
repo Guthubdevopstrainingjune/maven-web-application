@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.31.92:9980/mithuntechnologies/repository/icicibank-release/</url>
+	      <url>http://34.238.171.228:8081/repository/JenkinsTest-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.31.92:9980/mithuntechnologies/repository/icicibank-snapshot/</url>
+	      <url>http://34.238.171.228:8081/repository/JenkinsTest-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
