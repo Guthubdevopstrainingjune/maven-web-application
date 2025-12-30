@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://34.238.171.228:8081/repository/JenkinsTest-Release/</url>
+	      <url>http://98.81.201.54:8081/repository/JenkinsTest-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.238.171.228:8081/repository/JenkinsTest-Snapshot/</url>
+	      <url>http://98.81.201.54:8081/repository/JenkinsTest-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
